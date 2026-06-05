@@ -148,10 +148,10 @@
 
 | Project | Description | Tech | Grade |
 |---------|-------------|------|-------|
-| [ML-Sales-Forecasting-Finance](#) | Lasso vs Ridge vs PCA regression · 37,500 obs · OOS R²=0.1507 | `Python` `scikit-learn` `pandas` | A4:19 |
-| [BI-Tableau-Dashboards](#) | SDG 12 coffee sustainability + SDG 3&6 water analytics for Starbucks & Unilever | `Tableau` `FAOSTAT` `World Bank` | A4 + B1 |
+| [ML-Sales-Forecasting-Finance](#) | Lasso vs Ridge vs PCA regression · 37,500 obs · OOS R²=0.1507 | `Python` `scikit-learn` `pandas` |
+| [BI-Tableau-Dashboards](#) | SDG 12 coffee sustainability + SDG 3&6 water analytics for Starbucks & Unilever | `Tableau` `FAOSTAT` `World Bank` |
 | [SQL-Data-Management-Glasgow](#) | 3NF schema design · Window functions · GDPR compliance · DAMA-DMBOK | `MySQL` `SQL` | MSc |
-| [Financial-Data-Pipeline](#) | CitiGroup CRSP stock analysis 2010–2024 · Log-returns · DP ratio · OLS | `Python` `pandas` `WRDS` | A4:19 |
+| [Financial-Data-Pipeline](#) | CitiGroup CRSP stock analysis 2010–2024 · Log-returns · DP ratio · OLS | `Python` `pandas` `WRDS` |
 
 > 🔗 *Replace `#` links above with actual repo URLs once created*
 
