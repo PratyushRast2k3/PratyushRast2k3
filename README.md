@@ -146,14 +146,11 @@
 
 ### 📌 Featured MSc Projects
 
-| Project | Description | Tech | Grade |
-|---------|-------------|------|-------|
-| [ML-Sales-Forecasting-Finance](#) | Lasso vs Ridge vs PCA regression · 37,500 obs · OOS R²=0.1507 | `Python` `scikit-learn` `pandas` |
-| [BI-Tableau-Dashboards](#) | SDG 12 coffee sustainability + SDG 3&6 water analytics for Starbucks & Unilever | `Tableau` `FAOSTAT` `World Bank` |
-| [SQL-Data-Management-Glasgow](#) | 3NF schema design · Window functions · GDPR compliance · DAMA-DMBOK | `MySQL` `SQL` | MSc |
-| [Financial-Data-Pipeline](#) | CitiGroup CRSP stock analysis 2010–2024 · Log-returns · DP ratio · OLS | `Python` `pandas` `WRDS` |
-
-> 🔗 *Replace `#` links above with actual repo URLs once created*
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ML-Sales-Forecasting-Finance](https://github.com/PratyushRast2k3/ML-Sales-Forecasting-Finance) | Lasso vs Ridge vs PCA regression · 37,500 obs · OOS R²=0.1507 · 75% improvement over naive baseline | `Python` `scikit-learn` `pandas` |
+| [BI-Tableau-Dashboards](https://github.com/PratyushRast2k3/BI-Tableau-Dashboards) | SDG 12 coffee sustainability + SDG 3&6 water analytics for Starbucks & Unilever | `Tableau` `FAOSTAT` `World Bank` |
+| [SQL-Data-Management-Glasgow](https://github.com/PratyushRast2k3/SQL-Data-Management-Glasgow) | 3NF Tesco database · 9 advanced queries · GDPR-aligned RBAC · EXPLAIN optimisation | `MySQL` `SQL` `DAMA-DMBOK` |
 
 ---
 
