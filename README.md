@@ -154,22 +154,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushrast2k3&show_icons=true&locale=en&layout=compact&theme=default&hide=html,css,php" alt="pratyushrast2k3 top languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushrast2k3&show_icons=true&locale=en&theme=default" alt="pratyushrast2k3 stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushrast2k3&theme=default" alt="pratyushrast2k3 streak" />
-</p>
-
----
-
 ### 🏅 Certifications
 
 <p align="left">
